@@ -1,4 +1,7 @@
-# PPSTM (Probe Particle STM)
+# Please do not use anymore! Check the new repository within [Probe Particle organization](https://github.com/Probe-Particle):
+[https://github.com/Probe-Particle/PPSTM](https://github.com/Probe-Particle/PPSTM)
+
+## PPSTM (Probe Particle STM)
 Code simulating various various STM techniques, especially for [tilting tips](https://pubs.acs.org/doi/10.1021/ja204624g) (depending on [ProkopHapala/ProbeParticleModel](https://github.com/ProkopHapala/ProbeParticleModel) )
 This is implementation of efficient and simple model for simulation of High-resolution scanning tunneling microscopy (STM).
 Normall STM simulations using [Chen's approximattion](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.42.8841) is part of the code as well
